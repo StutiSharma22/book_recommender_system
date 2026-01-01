@@ -3,6 +3,10 @@
 This project recommends books based on **collaborative filtering**, providing personalized book suggestions for users.
 
 ---
+<img width="1551" height="937" alt="1" src="https://github.com/user-attachments/assets/4f93f382-60df-4618-b377-d786db6cd87a" />
+<img width="1512" height="431" alt="2" src="https://github.com/user-attachments/assets/a825d75a-dcd5-44dc-b1dd-d8337dc602ac" />
+
+
 
 ## Problem Description
 
